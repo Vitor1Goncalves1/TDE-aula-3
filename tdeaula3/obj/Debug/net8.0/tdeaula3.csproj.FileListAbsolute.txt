@@ -1,0 +1,14 @@
+C:\Users\vitor\Desktop\LABORATORIO DE PROGRAMAÇÃO\tdeaula3\bin\Debug\net8.0\tdeaula3.exe
+C:\Users\vitor\Desktop\LABORATORIO DE PROGRAMAÇÃO\tdeaula3\bin\Debug\net8.0\tdeaula3.deps.json
+C:\Users\vitor\Desktop\LABORATORIO DE PROGRAMAÇÃO\tdeaula3\bin\Debug\net8.0\tdeaula3.runtimeconfig.json
+C:\Users\vitor\Desktop\LABORATORIO DE PROGRAMAÇÃO\tdeaula3\bin\Debug\net8.0\tdeaula3.dll
+C:\Users\vitor\Desktop\LABORATORIO DE PROGRAMAÇÃO\tdeaula3\bin\Debug\net8.0\tdeaula3.pdb
+C:\Users\vitor\Desktop\LABORATORIO DE PROGRAMAÇÃO\tdeaula3\obj\Debug\net8.0\tdeaula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\LABORATORIO DE PROGRAMAÇÃO\tdeaula3\obj\Debug\net8.0\tdeaula3.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\LABORATORIO DE PROGRAMAÇÃO\tdeaula3\obj\Debug\net8.0\tdeaula3.AssemblyInfo.cs
+C:\Users\vitor\Desktop\LABORATORIO DE PROGRAMAÇÃO\tdeaula3\obj\Debug\net8.0\tdeaula3.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\LABORATORIO DE PROGRAMAÇÃO\tdeaula3\obj\Debug\net8.0\tdeaula3.dll
+C:\Users\vitor\Desktop\LABORATORIO DE PROGRAMAÇÃO\tdeaula3\obj\Debug\net8.0\refint\tdeaula3.dll
+C:\Users\vitor\Desktop\LABORATORIO DE PROGRAMAÇÃO\tdeaula3\obj\Debug\net8.0\tdeaula3.pdb
+C:\Users\vitor\Desktop\LABORATORIO DE PROGRAMAÇÃO\tdeaula3\obj\Debug\net8.0\tdeaula3.genruntimeconfig.cache
+C:\Users\vitor\Desktop\LABORATORIO DE PROGRAMAÇÃO\tdeaula3\obj\Debug\net8.0\ref\tdeaula3.dll
